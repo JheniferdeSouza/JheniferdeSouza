@@ -5,12 +5,12 @@ Welcome my profile, feel free to have a cup of java ☕.
 
 Sou apenas uma aspirante em programação que busca construir uma carreira em tecnologia. Sou formada em curso técnico e estou finalizando a faculdade.
 <p></p>
-![Snake animation](https://github.com/JheniferdeSouza/JheniferdeSouza/blob/output/github-contribution-grid-snake.svg)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JheniferdeSouza/JheniferdeSouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JheniferdeSouza/JheniferdeSouza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JheniferdeSouza/JheniferdeSouza/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ## Linguagens do coração ♥️
 ![Static Badge](https://img.shields.io/badge/JAVA-c0392b?style=for-the-badge&)
